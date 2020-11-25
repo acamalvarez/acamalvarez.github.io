@@ -13,8 +13,8 @@
    version="1.1"
    id="svg8"
    inkscape:export-filename="C:\Users\acam\OneDrive\web\acam-portfolio\images\ads.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="381"
+   inkscape:export-ydpi="381"
    sodipodi:docname="ads.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="183.20821"
-     inkscape:cy="91.418803"
+     inkscape:zoom="5.6"
+     inkscape:cx="55.417725"
+     inkscape:cy="50.318123"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,27 +66,27 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-25.20238,-33.895836)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.60772px;line-height:1.25;font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype Bold';fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.140193;"
-       x="28.374191"
-       y="45.962776"
-       id="text14"><tspan
-         sodipodi:role="line"
-         id="tspan12"
-         x="28.374191"
-         y="45.962776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype Bold';stroke-width:0.140193;fill:#ff0000;">ADS</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text16"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18);fill:#000000;fill-opacity:1;stroke:none;" />
     <rect
        id="rect22"
        width="19.729914"
        height="19.729912"
        x="25.337423"
        y="34.03088"
-       style="fill:none;stroke:#000000;stroke-width:0.270087;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.270087;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.60772px;line-height:1.25;font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype Bold';fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.140193"
+       x="29.057983"
+       y="45.798847"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="29.057983"
+         y="45.798847"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype Bold';fill:#ff0000;stroke-width:0.140193">ADS</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text16"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>
