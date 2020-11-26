@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,21 +66,31 @@
        height="30"
        x="52.919369"
        y="118.13313" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="55.937153"
-       y="131.46657"
-       id="text1488"><tspan
-         sodipodi:role="line"
-         id="tspan1486"
+    <g
+       id="g848"
+       transform="translate(0,0.51972195)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="55.937153"
          y="131.46657"
-         style="font-size:6.35px;fill:#0000ff;stroke-width:0.264583">Coming</tspan><tspan
-         sodipodi:role="line"
-         x="55.937153"
-         y="139.40407"
-         style="font-size:6.35px;fill:#0000ff;stroke-width:0.264583"
-         id="tspan1490">Soon!</tspan></text>
+         id="text1488"><tspan
+           sodipodi:role="line"
+           x="55.937153"
+           y="131.46657"
+           style="font-size:6.35px;fill:#0000ff;stroke-width:0.264583"
+           id="tspan1490">Coming</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="58.879612"
+         y="138.36462"
+         id="text838"><tspan
+           sodipodi:role="line"
+           x="58.879612"
+           y="138.36462"
+           style="font-size:6.35px;fill:#0000ff;stroke-width:0.264583"
+           id="tspan836">Soon!</tspan></text>
+    </g>
   </g>
 </svg>
