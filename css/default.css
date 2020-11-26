@@ -286,7 +286,7 @@ a{
 
 .social-links{
     display: grid;
-    align-content: center;
+    align-content: left;
     text-align: left;
 }
 
