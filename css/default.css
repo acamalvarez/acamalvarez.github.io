@@ -39,12 +39,12 @@ p, li, span, label, input, textarea{
 
 }
 
-h1 { font-size: 56px;}
-h2 { font-size: 36px;}
-h3 { font-size: 28px;}
-h4 { font-size: 24px;}
-h5 { font-size: 20px;}
-h6 { font-size: 16px;}
+h1 { font-size: 52px;}
+h2 { font-size: 32px;}
+h3 { font-size: 24px;}
+h4 { font-size: 20px;}
+h5 { font-size: 16px;}
+h6 { font-size: 12px;}
 
 a{
     text-decoration: none;
@@ -287,7 +287,7 @@ a{
 .social-links{
     display: grid;
     align-content: center;
-    text-align: center;
+    text-align: left;
 }
 
 .social-links a {
